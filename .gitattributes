@@ -1,0 +1,3 @@
+# i just dont want this project to 
+# turn Python because of one wrapper
+*.py linguist-vendored
